@@ -1,8 +1,8 @@
 # Music Visualiser Project
 
-Name:
+Name: Mahim Hossain
 
-Student Number: 
+Student Number: C19368321
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
@@ -12,12 +12,37 @@ Student Number:
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
+This assignment is an Audio Visualiser that reacts to the song that is playing. The program
+consists of 3D Lines and Rectangles. The rectangles react according to the lines as the song
+is playing. The song used in this program is Bad Computer - Paradise. This audio
+visualisation can also be controlled using the mouse.
+
 
 # Instructions
+Holding left click lets you drag the audio bands around, holding right click and using the mouse scroll wheel lets you zoom in and out.
+Double left clicking/right clicking centers the audio visualisation right in the middle.
+Holding shift allows you to rotate the visualisation at one axis
+Pressing space pauses the program and pressing space again resumes the program to play.
 
 # How it works
+Making it run is fairly simple. You can run this code on a processing IDE and make sure you have
+the Processing Sound Library and PeasyCam library installed. These libraries can be easily
+installed by going into the Processing IDE and hovering over into the tools section and then
+Add Tool. If you are using Visual Studio Code, make sure again you have the relevant Java Libraries
+installed and hit FN-F5 and watch the program run.
 
 # What I am most proud of in the assignment
+Very proud of this assignment as calculating the rows and cols to make the 3D lines move correctly
+and made sure it was not too jittery as it played to the music was very difficult. This program
+also displays two visuals at the same time, the 2D rectangles are reacting according to the lines
+and people can have a look at a 2D visualisation or a 3D visualisation or both! This program
+also lets you interact with the audio visualisation by moving it around. I have never used
+the peasy camera library before but it was definitely very interesting to learn how to use it
+and how it would affect my program.
+
+**Youtube link showing demonstration of the program:** https://www.youtube.com/watch?v=rcIczC1E3gw
+
+
 
 # Markdown Tutorial
 
