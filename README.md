@@ -16,7 +16,9 @@ This assignment is an Audio Visualiser that reacts to the song that is playing. 
 consists of 3D Lines and Rectangles. The rectangles react according to the lines as the song
 is playing. The song used in this program is Bad Computer - Paradise. This audio
 visualisation can also be controlled using the mouse.
-
+**The code is on the page called OOP_Project.pde
+**
+The song is already in the data folder called song.mp3
 
 # Instructions
 Holding left click lets you drag the audio bands around, holding right click and using the mouse scroll wheel lets you zoom in and out.
