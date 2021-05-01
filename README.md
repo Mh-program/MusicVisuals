@@ -41,7 +41,7 @@ also lets you interact with the audio visualisation by moving it around. I have 
 the peasy camera library before but it was definitely very interesting to learn how to use it
 and how it would affect my program.
 
-**Youtube link showing demonstration of the program:** https://www.youtube.com/watch?v=rcIczC1E3gw
+**Youtube link showing demonstration of the program:** https://youtu.be/O-1GqT7bb7Q
 
 
 
